@@ -18,7 +18,8 @@ The search icon in the top right corner of the home page allows users to search 
 
 The search results are displayed with a picture and nutrient information. Once again, tapping the recipe opens the recipe website in the app.
 
-<img height="700" alt="Screen Shot 2022-06-05 at 5 00 28 PM" src="https://user-images.githubusercontent.com/82056699/172072493-b1ceca51-bba5-4bab-9ad5-0c8735e6be61.png">  <img height="700"" alt="Screen Shot 2022-06-05 at 5 03 20 PM" src="https://user-images.githubusercontent.com/82056699/172072482-9390a69c-aa03-4deb-a08a-4f849ca9f17c.png">
+<img height="700" alt="Screen Shot 2022-06-05 at 5 00 28 PM" src="https://user-images.githubusercontent.com/82056699/172072493-b1ceca51-bba5-4bab-9ad5-0c8735e6be61.png">  <img height="700" alt="Screen Shot 2022-06-05 at 5 03 20 PM" src="https://user-images.githubusercontent.com/82056699/172072837-2a74458e-cc94-4e89-8f81-31f831eb1188.png">
+
 
 Clicking on 'Nutrient Search' in the bottom right corner of the home page opens a modal that allows users to search for meal options using nutrient details. Input values are validated when the 'Search' button is tapped. 
 
